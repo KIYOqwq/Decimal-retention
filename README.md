@@ -1,2 +1,3 @@
 # Decimal-retention
 计算圆面积并保留小数点后两位
+第一种方法是round方法，第二种是更符合要求的decimal方法
